@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: 光學文字辨識《自由知識協作平台》主題
+Upstream-Contact: Issues · 自由知識協作平台 Libre Knowledge Collaboration Platform / 光學文字辨識 Optical Character Recognition · GitLab <https://gitlab.com/libre-knowledge/ocr/-/issues>
+Source: https://gitlab.com/libre-knowledge/ocr
+
+Files:
+  *README.md
+  */README.md
+  _config.yml
+Copyright: 2022 自由知識協作平台貢獻者 <https://github.com/libre-knowledge/libre-knowledge/issues>
+License: CC-BY-SA-4.0
