@@ -1,4 +1,4 @@
-# 光學文字辨識<br>Optical Character Recognition(OCR)
+# 光學字元辨識<br>Optical Character Recognition(OCR)
 
 > 光學文字辨識（OCR, Optical Character Recognition）是一種資訊技術，它可以識別印刷或手寫的文字圖像並將其轉換成機器可編輯的文字格式
 >
