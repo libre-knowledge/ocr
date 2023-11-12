@@ -1,10 +1,12 @@
 # 光學字元辨識<br>Optical Character Recognition(OCR)
 
-> 光學文字辨識（OCR, Optical Character Recognition）是一種資訊技術，它可以識別印刷或手寫的文字圖像並將其轉換成機器可編輯的文字格式
->
-> ——摘錄自 [OCR 技術介紹 | ChatGPT](https://chat.openai.com/share/151f160a-f734-4c77-8ca2-15932a3f6838)
+識別印刷或手寫的文字圖像並將其轉換成機器可編輯的文字格式
 
 [![GitLab CI 持續整合流程狀態標章](https://gitlab.com/libre-knowledge/ocr/badges/main/pipeline.svg "點擊查看 GitLab CI 持續整合流程的運行狀態")](https://gitlab.com/libre-knowledge/gitlab-organization-templates/subject-template/-/commits/main) ![「檢查專案中的潛在問題」GitHub Actions 作業流程狀態標章](https://github.com/libre-knowledge/ocr/actions/workflows/check-potential-problems.yml/badge.svg "本專案使用 GitHub Actions 自動化檢查專案中的潛在問題") [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "本專案使用 pre-commit 檢查專案中的潛在問題")](https://github.com/pre-commit/pre-commit) [![REUSE 規範遵從狀態標章](https://api.reuse.software/badge/github.com/libre-knowledge/ocr "本專案遵從 REUSE 規範降低軟體授權合規成本")](https://api.reuse.software/info/gitlab.com/libre-knowledge/ocr)
+
+## 軟體實現<br>Software implementations
+
+* [Tesseract](
 
 ## 參考資料
 
