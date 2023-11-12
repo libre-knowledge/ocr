@@ -6,7 +6,8 @@
 
 ## 軟體實現<br>Software implementations
 
-* [Tesseract](
+* [Tesseract](https://gitlab.com/libre-knowledge/tesseract)  
+  開放來源碼的光學字元辨識引擎
 
 ## 參考資料
 
